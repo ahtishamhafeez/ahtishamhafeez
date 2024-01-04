@@ -4,8 +4,8 @@
 
 💼 What sets me apart:
 
-- 🔥 Six years of diverse experience across the full software development lifecycle.
-- 🌐 Expertise in a spectrum of technologies, from front-end (React, Javascript) to back-end (Node.js, Ruby on Rails).
+- 🔥 Six plus years of diverse experience across the full software development lifecycle.
+- 🌐 Expertise in a spectrum of technologies, from front-end (React, Javascript) to back-end (Node.js, NestJs, Ruby on Rails).
 - 🛠️ Proficient in database design, API development, and cloud integration (AWS, Azure).
 - 🌟 A knack for turning complex ideas into user-friendly, efficient software solutions.
 - 💡 Strong advocate for clean code, best practices, and agile methodologies.
